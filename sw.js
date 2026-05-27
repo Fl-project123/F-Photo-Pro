@@ -1,4 +1,4 @@
-const CACHE_NAME = 'lensa-ai-v1';
+const CACHE_NAME = 'f-photo-v1';
 const ASSETS = [
   'index.html',
   'manifest.json',
